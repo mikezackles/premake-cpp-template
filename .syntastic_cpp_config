@@ -1,0 +1,4 @@
+-Isrc
+-Itest
+-Iexternal/googletest/include
+-Iexternal/googlemock/include
